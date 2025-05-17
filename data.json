@@ -1,0 +1,18 @@
+[
+    {
+        "Name": "anil",
+        "Age": 23,
+        "Email": "anil@gmail.com",
+        "Pin": 1234,
+        "Account_no": 1234,
+        "Balance": 0
+    },
+    {
+        "Name": "john",
+        "Age": 25,
+        "Email": "john1@gmail.com",
+        "Pin": 1234,
+        "Account_no": 1129845297,
+        "Balance": 0
+    }
+]
